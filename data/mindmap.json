@@ -1,0 +1,14 @@
+{
+  "name": "Root",
+  "children": [
+    {
+      "name": "Idea 1",
+      "children": [
+        {
+          "name": "Subidea A",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
